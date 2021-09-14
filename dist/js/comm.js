@@ -101,10 +101,10 @@ $('#header').each(function(){
   var swiper = new Swiper(".foot-family", {
     slidesPerView: 6,
     loop: true,
-    autoplay: {
-      delay: 2500,
-      disableOnInteraction: false,
-    }
+    // autoplay: {
+    //   delay: 2500,
+    //   disableOnInteraction: false,
+    // }
   });
 
   // tab 

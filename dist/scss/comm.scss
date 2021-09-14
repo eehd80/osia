@@ -493,6 +493,7 @@
             -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
             top: 74px;
+            max-width: 1280px;
             color: #fff;
             text-align: left;
             font-weight: 100;
@@ -1011,6 +1012,7 @@
 @media screen and (min-width: 992px) {
     .foot-family {
         display: block;
+        overflow: hidden;
         padding: 22px 0;
     
         .lst-family {
