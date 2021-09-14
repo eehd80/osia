@@ -77,10 +77,10 @@ $('#header').each(function(){
     // effect: "fade",
     centeredSlides: true,
     loop: true,
-    // autoplay: {
-    //   delay: 2500,
-    //   disableOnInteraction: false,
-    // },
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false,
+    },
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
@@ -101,10 +101,10 @@ $('#header').each(function(){
   var swiper = new Swiper(".foot-family", {
     slidesPerView: 6,
     loop: true,
-    // autoplay: {
-    //   delay: 2500,
-    //   disableOnInteraction: false,
-    // }
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false,
+    }
   });
 
   // tab 
