@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'SCDream';
+    src: url(./SCDream4.woff);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'SCDream';
+    src: url(./SCDream1.woff);
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'SCDream';
+    src: url(./SCDream5.woff);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'SCDream';
+    src: url(./SCDream6.woff);
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'SCDream';
+    src: url(./SCDream7.woff);
+    font-weight: 700;
+}
